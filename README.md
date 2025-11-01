@@ -1,1 +1,1 @@
-# Priyanka-and-Toys
+# Priyanka-and-Toys This code calculates the minimum number of containers needed to pack toys where each container can hold toys with weights differing by at most 4. It sorts the weights, then iteratively groups toys within the allowable weight range, counting one container per group.
